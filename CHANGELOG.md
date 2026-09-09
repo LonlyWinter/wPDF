@@ -11,3 +11,9 @@
 2. local web resource
 
 
+## Version.20260909170009
+
+1. spawn web connection
+2. open in windows
+
+
